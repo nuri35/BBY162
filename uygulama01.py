@@ -54,3 +54,4 @@ else:
     print()
 
 print (" SINAV SONA ERDİ... SONUCUNUZ : " , str(sonucpuan*20))
+input ()
